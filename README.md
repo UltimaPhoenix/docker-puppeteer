@@ -1,2 +1,2 @@
-# docker-puppeteer ![Docker Stars](https://img.shields.io/docker/stars/ultimaphoenix/puppeteer.svg) ![Docker Pulls](https://img.shields.io/docker/pulls/ultimaphoenix/puppeteer.svg) ![Docker Automated build](https://img.shields.io/docker/automated/ultimaphoenix/puppeteer.svg) ![Docker Build Status](https://img.shields.io/docker/build/ultimaphoenix/puppeteer.svg)
+# docker-puppeteer ![Docker Pulls](https://img.shields.io/docker/pulls/ultimaphoenix/puppeteer.svg) ![Docker Stars](https://img.shields.io/docker/stars/ultimaphoenix/puppeteer.svg) ![Docker Automated build](https://img.shields.io/docker/automated/ultimaphoenix/puppeteer.svg) ![Docker Build Status](https://img.shields.io/docker/build/ultimaphoenix/puppeteer.svg)
 Base docker puppeteer image
