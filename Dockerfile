@@ -1,4 +1,4 @@
-FROM node:slim
+FROM node:slim@sha256:7576d13af2efc86127f5873d9ffd653c2bac8cdc326b7377db4e6943d7e54525
 
 LABEL name="puppeter"
 LABEL maintainer="UltimaPhoenix"
