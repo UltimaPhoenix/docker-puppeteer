@@ -1,4 +1,4 @@
-FROM node:13-slim
+FROM node:18-slim
 
 LABEL name="puppeter"
 LABEL maintainer="UltimaPhoenix"
